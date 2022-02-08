@@ -1,11 +1,11 @@
 Departments
 -
-dept_no varchar pk 
+dept_no varchar 
 dept_name varchar   
 
 Employees
 -
-emp_no int pk
+emp_no int 
 birth_date date
 first_name varchar
 last_name   varchar
