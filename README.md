@@ -12,7 +12,7 @@ From this table we can see that the senior positions have a large number of empl
 
 The second analysis is employees eligible to participate in a mentorship program. 
 [mentorship_eligibility.csv](https://github.com/B-Amela/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-%20Analysis%20Folder/Data/mentorship_eligibility.csv). (larger file)
-
+- 2/3 of employees retiring are Senior Engineers & Senior Staff
 - Only 1549 employees are eligible for the mentorship program. 
 - There are more people retiring than there are potential mentors.
 - Pewlett-Hackard needs a strategic plan to prepare for the "silver tsunami".
