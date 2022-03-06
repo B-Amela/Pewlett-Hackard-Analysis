@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Analysis Overview
-The purporse of this analysis is to determine the number of retiring employees, per title, and identify the employees eligible for particiation in a mentorship program. This analysis utilizes csv files, and PostgresSQL. 
+The purporse of this analysis is to determine the number of retiring employees, per title, and identify the employees eligible for participation in a mentorship program. This analysis utilizes csv files, and PostgresSQL. 
 
 ## Results
 
